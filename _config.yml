@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Samantha Morrison"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/Samantha_Morrison.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Biostatistics PhD Candidate"
   location         : "Brown University"
   email            : samantha_morrison@brown.edu
