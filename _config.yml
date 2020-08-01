@@ -97,11 +97,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Biostatistics PhD Candidate"
   location         : "Brown University"
-  email            : 
+  email            : samantha_morrison@brown.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      mailto:samantha_morrison@brown.edu # url: 
+      #mailto:samantha_morrison@brown.edu # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
