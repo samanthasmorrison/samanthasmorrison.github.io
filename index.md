@@ -9,3 +9,4 @@ Samantha Morrison is a Biostatistics PhD Candidate at Brown University. Her rese
 
 * Contact: samantha_morrison@brown.edu
 * CV: [here](/files/Smorrison_CV_2020.pdf)
+* [LinkedIn](https://www.linkedin.com/in/samanthasmorrison/)
